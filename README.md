@@ -6,3 +6,4 @@ Link to [canny.io page](https://cse110-lab10-thanhtong010.canny.io/).
 Link to [index.html page](https://thanhtong010.github.io/Lab10/index.html)
 
 Link to [secondSplit.html page](https://thanhtong010.github.io/Lab10/secondSplit.html)
+The second feature should change the color of the background of the body.

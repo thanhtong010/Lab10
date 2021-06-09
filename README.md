@@ -10,4 +10,4 @@ The second feature should change the color of the background of the body when cl
 
 ## Part 3: Screenshots
 Events are not being triggered even though there are page views registered.
-![Single / Double Column](screenshots\Columns.png)
+![Single / Double Column](./screenshots\Columns.png)

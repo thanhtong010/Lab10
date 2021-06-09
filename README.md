@@ -9,5 +9,6 @@ Link to [secondSplit.html page](https://thanhtong010.github.io/Lab10/secondSplit
 The second feature should change the color of the background of the body when clicking on settings.
 
 ## Part 3: Screenshots
-Events are not being triggered even though there are page views registered.
+I was working on this for hours, but unfortunately events are not being triggered even though there are page views registered.
 ![Single / Double Column](screenshots/Columns.png)
+![Testing](screenshots/Testing.png)
